@@ -1,0 +1,5 @@
+{
+  "name": "AI Food Agent",
+  "description": "An AI-driven food ordering service with ReAct planning, memory, and tool calling.",
+  "requestFramePermissions": []
+}
